@@ -1,4 +1,4 @@
-# Google-Play-store-data-analytics-project
+# Google-Play-Store-Data-Analytics-Project
 This repo contains google play store data analytics project notebook with 12 interesting insights. it is data analysis project using pandas, matplotlib and seaborn libraries of python
 
 ## Techniques and insights:
